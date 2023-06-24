@@ -1,0 +1,2 @@
+# Bashautomation
+Automatizaciones linux
